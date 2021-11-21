@@ -1,0 +1,47 @@
+{% if site.style == 'dark' %}
+  {% assign icon_color = "#ffffff" %}
+{% else %}
+  {% assign icon_color = "#24292e" %}
+{% endif %}
+
+{% assign content = page.content %}
+
+{% assign posts_total = site.posts | size %}
+
+{% assign user = site.github.owner %}
+
+{% if page.path contains '_posts' %}
+  {% assign page_title = page.title %}
+  {% assign meta_description = page.content | strip_html | strip_newlines | xml_escape | truncate: 300 %}
+{% else %}
+  {% assign page_title = user.name %}
+  {% assign meta_description = user.bio | strip_html | strip_newlines | xml_escape | truncate: 300 %}
+{% endif %}
+
+<!doctype html>
+<html class="min-height-full">
+  <head >
+    
+    <meta charset="utf-8">
+    <title>{{ page_title }}</title>
+    <meta name="description" content="{{ meta_description }}" />
+    <meta property="og:title" content="{{ user.name }}" />
+    <meta property="og:image" content="{{ user.avatar_url }}" />
+    <meta property="og:description" content="{{ meta_description }}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="{{ "/assets/styles.css" | relative_url }}" rel="stylesheet" type="text/css">
+  </head>
+  <style>  
+  </style>
+  <script type="text/javascript">
+    window.onload = function () {
+        var images = ['gifs/cidade.gif', 'gifs/cidade2.gif','gifs/cidade3.gif','gifs/cidade4.gif'];
+        var image = images[Math.floor(Math.random() * images.length)];
+        document.getElementsByTagName('body')[0].style.backgroundImage = "url('" + image + "')";
+        document.getElementsByTagName('body')[0].style.backgroundRepeat = "no-repeat";
+        document.getElementsByTagName('body')[0].style.backgroundSize = "cover";
+    }
+  </script>
+  <body class="bg-white min-height-full">
+  	
+

@@ -1,0 +1,38 @@
+{% include header.html %}
+<script>
+  function changeaudio(){
+    var audio = new Audio("music.mp3");
+  
+      audio.oncanplaythrough = function(){
+      audio.play();
+      }
+  
+      audio.loop = true;
+  
+      audio.onended = function(){
+      audio.play();
+    }
+
+    document.getElementsByTagName('body')[0].style.backgroundImage = "url('gifs/yourname.gif')";
+    document.getElementsByTagName('body')[0].style.backgroundRepeat = "repeat";
+    document.getElementsByTagName('body')[0].style.backgroundSize = "cover";
+  }
+</script>
+  
+
+<div div class="container-lg py-6 p-responsive text-center">
+  {% assign metadata_styles = 'd-md-inline-block mx-3 mb-1 mb-md-0' %}
+    {% include masthead2.html metadata=true %}
+      <div {% if site.style == 'dark' %}class="text-white"{% endif %}>
+        {{ content }}
+      </div>
+      {% include thoughts.html %}
+      {% include projects.html %}
+      {% if site.topics %}
+        {% include interests.html %}
+      {% endif %}
+  </div>
+</div>
+<div style="padding: 10px;">
+  <input type="image" src="egg.png" width="25" height="30" onclick="changeaudio()"s>
+</div>
