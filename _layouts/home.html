@@ -1,21 +1,21 @@
 {% include header.html %}
 <script>
+  i=0;
+  var audio = new Audio("music.mp3");
   function changeaudio(){
-    var audio = new Audio("music.mp3");
-  
-      audio.oncanplaythrough = function(){
+    i=i+1;
+    if(i%2==1){
       audio.play();
-      }
-  
-      audio.loop = true;
-  
-      audio.onended = function(){
-      audio.play();
+      document.getElementsByTagName('body')[0].style.backgroundImage = "url('https://amritauniv-my.sharepoint.com/personal/amenu4aie21009_am_students_amrita_edu/Documents/gif/yourname.gif')";
+      document.getElementsByTagName('body')[0].style.backgroundRepeat = "repeat";
+      document.getElementsByTagName('body')[0].style.backgroundSize = "cover";
     }
-
-    document.getElementsByTagName('body')[0].style.backgroundImage = "url('gifs/yourname.gif')";
-    document.getElementsByTagName('body')[0].style.backgroundRepeat = "repeat";
-    document.getElementsByTagName('body')[0].style.backgroundSize = "cover";
+    else if(i%2==0){
+      audio.pause();
+      document.getElementsByTagName('body')[0].style.backgroundImage = "url('gifs/cidade.gif')";
+      document.getElementsByTagName('body')[0].style.backgroundRepeat = "repeat";
+      document.getElementsByTagName('body')[0].style.backgroundSize = "cover";
+    }
   }
 </script>
   
@@ -34,5 +34,5 @@
   </div>
 </div>
 <div style="padding: 10px;">
-  <input type="image" src="egg.png" width="25" height="30" onclick="changeaudio()"s>
+  <input type="image" src="egg.png" width="50" height="50" onclick="changeaudio()"s>
 </div>
