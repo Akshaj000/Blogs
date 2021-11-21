@@ -1,6 +1,8 @@
 {% include header.html %}
 <script>
+  gifs=['gifs/cidade.gif','gifs/cidade2.gif','gifs/cidade3.gif','gifs/cidade4.gif']
   i=0;
+  c=0;
   var audio = new Audio("music.mp3");
   function changeaudio(){
     i=i+1;
@@ -12,9 +14,13 @@
     }
     else if(i%2==0){
       audio.pause();
-      document.getElementsByTagName('body')[0].style.backgroundImage = "url('gifs/cidade.gif')";
+      document.getElementsByTagName('body')[0].style.backgroundImage = "url('" + gifs[c] + "')";;
       document.getElementsByTagName('body')[0].style.backgroundRepeat = "repeat";
       document.getElementsByTagName('body')[0].style.backgroundSize = "cover";
+      if(c==3){
+        c=0;
+      }
+      c+=1
     }
   }
 </script>
