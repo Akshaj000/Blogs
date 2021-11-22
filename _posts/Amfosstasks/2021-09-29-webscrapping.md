@@ -130,7 +130,7 @@ func main() {
 
 ## I DID IT but its complicated
 
-This time i figured out where i went wrong and understood html codes to forbes were java rendered. Geziyor was the frame which supported it. Its easy after identifying it.Its possible to fetch required part of the html to a json file using this framework, and is easy to convert it to a csv.But there was issue. Go couldnt identify  class="Country/Territory". Even i tried it with "//". It didnt help. I couldnt print the Country/Territory. I couldnt come up with a btr approach. How i did it was, I used geziyor to scrap all the html codes to a txt file, editted each "Country/Territory"  to "Country". Made a local web server and used colly to scrap it. This time it worked, But i had to run two files. One with the geziyor frame work which scraped the link and made a local server. Then one with colly which actually scraps the required elements and save it inside a csv file.I should have tried to find a way to include "/" and im still working on it.\
+This time i figured out where i went wrong and understood html codes in forbes were java script rendered. Geziyor was the framework which supported it. Its was easy after identifying it.Its possible to fetch required part of the html to a json file using this framework, and is easy to convert it to a csv.But there was issue. Go couldnt identify  class="Country/Territory". Even i tried it with "//". It didnt help. I couldnt print the Country/Territory. I couldnt come up with a btr approach. How i did it was, I used geziyor to scrap all the html codes to a txt file, editted each "Country/Territory"  to "Country". Made a local web server and used colly to scrap it. This time it worked, But i had to run two files. One with the geziyor frame work which scraped the link and made a local server. Then one with colly which actually scraps the required elements and save it inside a csv file.I should have tried to find a way to include "/" and im still working on it.
 Please follow this method to use my scraper:\
 1.Head to working_one directory\
 2.Run the gey-serve.go file inside the serve_here directory\
@@ -148,9 +148,9 @@ ParseFunc: func(g *geziyor.Geziyor, r *client.Response) {
         writer.write(string(r.Body))
     },
 ```
-I had to write the the char one by one to different file. Later i had to edit that file properly to use colly.
+I had to write characters one by one to different file. Later i had to edit that file properly to use colly.
 [This](/Htmltask/forbes/data.html) is the html file i got after scrapping. Yeah its impossible to scrap that. So removed first few lines using this [method](https://stackoverflow.com/questions/30940190/remove-first-line-from-text-file-in-golang).
-Later had to convert the html to txt, since golang couldnt read "/" inside html properly due to some reason. I replaced "Country/Territory" with "Territory" using :
+Later had to convert the html to txt, since golang couldnt read "/" inside html properly due to some reason. I replaced "Country/Territory" with "Country" using :
 ```golang
 func visit(path string, fi os.FileInfo, err error) error {
 
