@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on &amp;#128218 MyBlog</title>
-    <link>https://akshaj000.github.io/tags/</link>
+    <link>https://akshaj000.github.io/Blogs/tags/</link>
     <description>Recent content in Tags on &amp;#128218 MyBlog</description>
     <image>
-      <url>https://akshaj000.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://akshaj000.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://akshaj000.github.io/Blogs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://akshaj000.github.io/Blogs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 07 Jan 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://akshaj000.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jan 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://akshaj000.github.io/Blogs/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>amfoss</title>
-      <link>https://akshaj000.github.io/tags/amfoss/</link>
+      <link>https://akshaj000.github.io/Blogs/tags/amfoss/</link>
       <pubDate>Fri, 07 Jan 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://akshaj000.github.io/tags/amfoss/</guid>
+      <guid>https://akshaj000.github.io/Blogs/tags/amfoss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>first</title>
-      <link>https://akshaj000.github.io/tags/first/</link>
+      <link>https://akshaj000.github.io/Blogs/tags/first/</link>
       <pubDate>Fri, 07 Jan 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://akshaj000.github.io/tags/first/</guid>
+      <guid>https://akshaj000.github.io/Blogs/tags/first/</guid>
       <description></description>
     </item>
     
