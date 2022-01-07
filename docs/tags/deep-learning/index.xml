@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep learning on @mayukhdeb</title>
+    <link>https://mayukhdeb.github.io/blog/tags/deep-learning/</link>
+    <description>Recent content in Deep learning on @mayukhdeb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Oct 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mayukhdeb.github.io/blog/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>minGPT for dummies</title>
+      <link>https://mayukhdeb.github.io/blog/post/mingpt-for-dummies/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/mingpt-for-dummies/</guid>
+      <description>Trying to understand how Andrej Karpathy&amp;rsquo;s minGPT works, step by step.</description>
+    </item>
+    
+    <item>
+      <title>An image is worth 16x16 words is worth a lot more words</title>
+      <link>https://mayukhdeb.github.io/blog/post/an-image-is-worth-16-x-16-explained/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/an-image-is-worth-16-x-16-explained/</guid>
+      <description>Figuring out how an image might be worth 16x16 words</description>
+    </item>
+    
+    <item>
+      <title>Transformer toolbox</title>
+      <link>https://mayukhdeb.github.io/blog/post/transformers-toolbox/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/transformers-toolbox/</guid>
+      <description>stuff you need to understand before understanding how transformers work</description>
+    </item>
+    
+    <item>
+      <title>My own little guide to einops</title>
+      <link>https://mayukhdeb.github.io/blog/post/undertanding-einops/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/undertanding-einops/</guid>
+      <description>Why do feel like I&amp;rsquo;ll have to come back to this post many times</description>
+    </item>
+    
+    <item>
+      <title>What on earth is attention</title>
+      <link>https://mayukhdeb.github.io/blog/post/what-on-earth-is-attention/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/what-on-earth-is-attention/</guid>
+      <description>Teaching myself about the attention mechanism in vision models</description>
+    </item>
+    
+    <item>
+      <title>Eden</title>
+      <link>https://mayukhdeb.github.io/blog/post/eden/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/eden/</guid>
+      <description>Building the building blocks for generative art</description>
+    </item>
+    
+    <item>
+      <title>Visualizing adversarial examples with caricatures</title>
+      <link>https://mayukhdeb.github.io/blog/post/adv-example-caricatures/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/adv-example-caricatures/</guid>
+      <description>Breaking down adversarial examples with carictaures</description>
+    </item>
+    
+    <item>
+      <title>A Few Months With Feature Visualization</title>
+      <link>https://mayukhdeb.github.io/blog/post/feature-vis/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/feature-vis/</guid>
+      <description>Learning to reverse engineer CNNs and other stuff</description>
+    </item>
+    
+    <item>
+      <title>Hello DevoLearn</title>
+      <link>https://mayukhdeb.github.io/blog/post/gsoc-2020-aug-2/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/gsoc-2020-aug-2/</guid>
+      <description>Google Summer of Code | Coding period week 9</description>
+    </item>
+    
+    <item>
+      <title>Training a GAN</title>
+      <link>https://mayukhdeb.github.io/blog/post/gsoc-2020-july-26/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/gsoc-2020-july-26/</guid>
+      <description>Google Summer of Code | Coding period week 8</description>
+    </item>
+    
+    <item>
+      <title>Finally the bridge works now</title>
+      <link>https://mayukhdeb.github.io/blog/post/gsoc-2020-july-19/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/gsoc-2020-july-19/</guid>
+      <description>Google Summer of Code | Coding period week 7</description>
+    </item>
+    
+    <item>
+      <title>Building a bridge</title>
+      <link>https://mayukhdeb.github.io/blog/post/gsoc-2020-july-5/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/gsoc-2020-july-5/</guid>
+      <description>Google Summer of Code | Coding period week 5</description>
+    </item>
+    
+    <item>
+      <title>Training the segmentation model</title>
+      <link>https://mayukhdeb.github.io/blog/post/gsoc-2020-june-21/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/gsoc-2020-june-21/</guid>
+      <description>Google Summer of Code | Coding period week 3</description>
+    </item>
+    
+    <item>
+      <title>PCA and semantic segmentation</title>
+      <link>https://mayukhdeb.github.io/blog/post/gsoc-2020-june-14/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/gsoc-2020-june-14/</guid>
+      <description>Google Summer of Code | Coding period week 2</description>
+    </item>
+    
+    <item>
+      <title>The &#34;EPIC&#34; dataset</title>
+      <link>https://mayukhdeb.github.io/blog/post/gsoc-2020-june-7/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/gsoc-2020-june-7/</guid>
+      <description>Google Summer of Code | Coding period week 1</description>
+    </item>
+    
+    <item>
+      <title>Exploring the Movement Database</title>
+      <link>https://mayukhdeb.github.io/blog/post/gsoc-2020-may-24/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/gsoc-2020-may-24/</guid>
+      <description>Google Summer of Code | Community bonding period week 2</description>
+    </item>
+    
+    <item>
+      <title>Hello Openworm</title>
+      <link>https://mayukhdeb.github.io/blog/post/gsoc-2020-may-17/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/gsoc-2020-may-17/</guid>
+      <description>Google Summer of Code | Community bonding period week 1</description>
+    </item>
+    
+    <item>
+      <title>Deep chicken saviour</title>
+      <link>https://mayukhdeb.github.io/blog/post/deep-chicken-saviour/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/deep-chicken-saviour/</guid>
+      <description>Adversarial attacks as a contermeasure against deep-chicken-terminator</description>
+    </item>
+    
+    <item>
+      <title>Deep chicken terminator</title>
+      <link>https://mayukhdeb.github.io/blog/post/deep-chicken-terminator/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/deep-chicken-terminator/</guid>
+      <description>Tracking wildlife in minecraft using small and light CNNs and trying to kill them</description>
+    </item>
+    
+    <item>
+      <title>Adventures with augmentation</title>
+      <link>https://mayukhdeb.github.io/blog/post/adventures-with-augmentation/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/adventures-with-augmentation/</guid>
+      <description>Exploring and experimenting with microscope imagery datasets.</description>
+    </item>
+    
+    <item>
+      <title>Mind the bend</title>
+      <link>https://mayukhdeb.github.io/blog/post/mind_the_bend/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayukhdeb.github.io/blog/post/mind_the_bend/</guid>
+      <description>Making a car drive by itself using deep learning and some PyAutoGUI</description>
+    </item>
+    
+  </channel>
+</rss>
