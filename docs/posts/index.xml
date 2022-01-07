@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on &amp;#128218 MyBlog</title>
+    <link>https://akshaj000.github.io/posts/</link>
+    <description>Recent content in Posts on &amp;#128218 MyBlog</description>
+    <image>
+      <url>https://akshaj000.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://akshaj000.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 07 Jan 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://akshaj000.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amfoss Praveshan</title>
+      <link>https://akshaj000.github.io/posts/amfosspreveshan/</link>
+      <pubDate>Fri, 07 Jan 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://akshaj000.github.io/posts/amfosspreveshan/</guid>
+      <description>This post is just to redirect to my blog on tasks i did for the selection process of Amfoss club. Please click here for more details . Please visit here to know more about the club.</description>
+    </item>
+    
+  </channel>
+</rss>
