@@ -3,7 +3,7 @@ title: "Sandesh and his girlfriend"
 published: true
 ---
 <p style="text-align:left; color:white">
-<a href="/2021/11/19/Amfoss/index.html" >< Introspection</a>
+<a href="/AmfossPreveshan/2021/11/19/Amfoss/index.html" >< Introspection</a>
 </p>
 <br/>
 
@@ -404,8 +404,8 @@ I couldnt solve it. I have posted my code [here](https://github.com/Akshaj000/am
 
 <br/>
 <p style="text-align:left;">
-<a href="/2021/09/25/hello-world/index.html" >< Previous</a>
-<span style="float:right;"><a href="/2021/09/27/mars/index.html" >Next ></a>
+<a href="/AmfossPreveshan/2021/09/25/hello-world/index.html" >< Previous</a>
+<span style="float:right;"><a href="/AmfossPreveshan/2021/09/27/mars/index.html" >Next ></a>
 </span>
 </p>
 

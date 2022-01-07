@@ -3,7 +3,7 @@ title: "WebScraping"
 published: true
 ---
 <p style="text-align:left; color:white">
-<a href="/2021/11/19/Amfoss/index.html" >< Introspection</a>
+<a href="/AmfossPreveshan/2021/11/19/Amfoss/index.html" >< Introspection</a>
 </p>
 <br/>
 
@@ -281,8 +281,8 @@ United States,$104.1 B,91,Berkshire Hathaway
 
 <br/>
 <p style="text-align:left;">
-<a href="/2021/09/28/flutter/index.html" >< Previous</a>
-<span style="float:right;"><a href="/2021/09/30/htmljs/index.html" >Next ></a>
+<a href="/AmfossPreveshan/2021/09/28/flutter/index.html" >< Previous</a>
+<span style="float:right;"><a href="/AmfossPreveshan/2021/09/30/htmljs/index.html" >Next ></a>
 </span>
 </p>
 

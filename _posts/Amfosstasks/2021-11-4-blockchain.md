@@ -3,7 +3,7 @@ title: "Simple Blockchain Implementation"
 published: true
 ---
 <p style="text-align:left; color:white">
-<a href="/2021/11/19/Amfoss/index.html" >< Introspection</a>
+<a href="/AmfossPreveshan/2021/11/19/Amfoss/index.html" >< Introspection</a>
 </p>
 <br/>
 
@@ -190,7 +190,7 @@ Enter no of block to change the message or -1 to exit:
 
 <br/>
 <p style="text-align:left;">
-<a href="/2021/09/30/htmljs/index.html" >< Previous</a>
-<span style="float:right;"><a href="/2021/11/12/lemesee/index.html" >Next ></a>
+<a href="/AmfossPreveshan/2021/09/30/htmljs/index.html" >< Previous</a>
+<span style="float:right;"><a href="/AmfossPreveshan/2021/11/12/lemesee/index.html" >Next ></a>
 </span>
 </p>

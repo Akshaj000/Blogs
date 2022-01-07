@@ -3,7 +3,7 @@ title: "How i got addicted to ubuntu and it became my default os"
 published: true
 ---
 <p style="text-align:left; color:white">
-<a href="/2021/11/19/Amfoss/index.html" >< Introspection</a>
+<a href="/AmfossPreveshan/2021/11/19/Amfoss/index.html" >< Introspection</a>
 </p>
 <br/>
 **Hello world**, this is my first blog post on the tasks i attempted to join Amfoss.
@@ -52,6 +52,6 @@ I had to disable secure boot, etc..  while installing ubuntu in my old laptop bu
 
 
 <p style="text-align:right; color:white">
-<a href="/2021/09/26/programming/index.html" >Next ></a>
+<a href="/AmfossPreveshan/2021/09/26/programming/index.html" >Next ></a>
 </p>
 

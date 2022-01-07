@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-07T23:00:25+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Akshaj000.github.io</title><entry><title type="html">AMFOSS-TASKS</title><link href="http://localhost:4000/2021/11/19/Amfoss/" rel="alternate" type="text/html" title="AMFOSS-TASKS" /><published>2021-11-19T00:00:00+05:30</published><updated>2021-11-19T00:00:00+05:30</updated><id>http://localhost:4000/2021/11/19/Amfoss</id><content type="html" xml:base="http://localhost:4000/2021/11/19/Amfoss/">&lt;p&gt;Hi, Im Akshaj. Im from Palakkad, Kerala. I dont have much to introduce myself. Heres my &lt;a href=&quot;https://www.instagram.com/a_k_s_h_a_j/&quot;&gt;instagram&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-07T23:06:21+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Akshaj000.github.io</title><entry><title type="html">AMFOSS-TASKS</title><link href="http://localhost:4000/2021/11/19/Amfoss/" rel="alternate" type="text/html" title="AMFOSS-TASKS" /><published>2021-11-19T00:00:00+05:30</published><updated>2021-11-19T00:00:00+05:30</updated><id>http://localhost:4000/2021/11/19/Amfoss</id><content type="html" xml:base="http://localhost:4000/2021/11/19/Amfoss/">&lt;p&gt;Hi, Im Akshaj. Im from Palakkad, Kerala. I dont have much to introduce myself. Heres my &lt;a href=&quot;https://www.instagram.com/a_k_s_h_a_j/&quot;&gt;instagram&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&quot;introspection&quot;&gt;INTROSPECTION&lt;/h1&gt;
 
 &lt;h2 id=&quot;why-must-we-choose-you&quot;&gt;Why must we choose you?&lt;/h2&gt;
@@ -185,7 +185,7 @@ interests in google competitions and open source contribution. Unlucky for me je
     &lt;/tr&gt;
     &lt;/table&gt;
 &lt;/body&gt;</content><author><name></name></author><summary type="html">Hi, Im Akshaj. Im from Palakkad, Kerala. I dont have much to introduce myself. Heres my instagram. INTROSPECTION</summary></entry><entry><title type="html">Editing c file</title><link href="http://localhost:4000/2021/11/12/lemesee/" rel="alternate" type="text/html" title="Editing c file" /><published>2021-11-12T00:00:00+05:30</published><updated>2021-11-12T00:00:00+05:30</updated><id>http://localhost:4000/2021/11/12/lemesee</id><content type="html" xml:base="http://localhost:4000/2021/11/12/lemesee/">&lt;p style=&quot;text-align:left; color:white&quot;&gt;
-&lt;a href=&quot;/2021/11/19/Amfoss/index.html&quot;&gt;&amp;lt; Introspection&lt;/a&gt;
+&lt;a href=&quot;/AmfossPreveshan/2021/11/19/Amfoss/index.html&quot;&gt;&amp;lt; Introspection&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -282,9 +282,9 @@ interests in google competitions and open source contribution. Unlucky for me je
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align:left;&quot;&gt;
-&lt;a href=&quot;/2021/11/04/blockchain/index.html&quot;&gt;&amp;lt; Previous&lt;/a&gt;
+&lt;a href=&quot;/AmfossPreveshan/2021/11/04/blockchain/index.html&quot;&gt;&amp;lt; Previous&lt;/a&gt;
 &lt;/p&gt;</content><author><name></name></author><summary type="html">&amp;lt; Introspection</summary></entry><entry><title type="html">Simple Blockchain Implementation</title><link href="http://localhost:4000/2021/11/04/blockchain/" rel="alternate" type="text/html" title="Simple Blockchain Implementation" /><published>2021-11-04T00:00:00+05:30</published><updated>2021-11-04T00:00:00+05:30</updated><id>http://localhost:4000/2021/11/04/blockchain</id><content type="html" xml:base="http://localhost:4000/2021/11/04/blockchain/">&lt;p style=&quot;text-align:left; color:white&quot;&gt;
-&lt;a href=&quot;/2021/11/19/Amfoss/index.html&quot;&gt;&amp;lt; Introspection&lt;/a&gt;
+&lt;a href=&quot;/AmfossPreveshan/2021/11/19/Amfoss/index.html&quot;&gt;&amp;lt; Introspection&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -468,11 +468,11 @@ Enter no of block to change the message or -1 to exit:
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align:left;&quot;&gt;
-&lt;a href=&quot;/2021/09/30/htmljs/index.html&quot;&gt;&amp;lt; Previous&lt;/a&gt;
-&lt;span style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/2021/11/12/lemesee/index.html&quot;&gt;Next &amp;gt;&lt;/a&gt;
+&lt;a href=&quot;/AmfossPreveshan/2021/09/30/htmljs/index.html&quot;&gt;&amp;lt; Previous&lt;/a&gt;
+&lt;span style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/AmfossPreveshan/2021/11/12/lemesee/index.html&quot;&gt;Next &amp;gt;&lt;/a&gt;
 &lt;/span&gt;
 &lt;/p&gt;</content><author><name></name></author><summary type="html">&amp;lt; Introspection</summary></entry><entry><title type="html">Exploring HTML and JS</title><link href="http://localhost:4000/2021/09/30/htmljs/" rel="alternate" type="text/html" title="Exploring HTML and JS" /><published>2021-09-30T00:00:00+05:30</published><updated>2021-09-30T00:00:00+05:30</updated><id>http://localhost:4000/2021/09/30/htmljs</id><content type="html" xml:base="http://localhost:4000/2021/09/30/htmljs/">&lt;p style=&quot;text-align:left; color:white&quot;&gt;
-&lt;a href=&quot;/2021/11/19/Amfoss/index.html&quot;&gt;&amp;lt; Introspection&lt;/a&gt;
+&lt;a href=&quot;/AmfossPreveshan/2021/11/19/Amfoss/index.html&quot;&gt;&amp;lt; Introspection&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -491,11 +491,11 @@ Enter no of block to change the message or -1 to exit:
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align:left;&quot;&gt;
-&lt;a href=&quot;/2021/09/29/webscrapping/index.html&quot;&gt;&amp;lt; Previous&lt;/a&gt;
-&lt;span style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/2021/11/04/blockchain/index.html&quot;&gt;Next &amp;gt;&lt;/a&gt;
+&lt;a href=&quot;/AmfossPreveshan/2021/09/29/webscrapping/index.html&quot;&gt;&amp;lt; Previous&lt;/a&gt;
+&lt;span style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/AmfossPreveshan/2021/11/04/blockchain/index.html&quot;&gt;Next &amp;gt;&lt;/a&gt;
 &lt;/span&gt;
 &lt;/p&gt;</content><author><name></name></author><summary type="html">&amp;lt; Introspection</summary></entry><entry><title type="html">WebScraping</title><link href="http://localhost:4000/2021/09/29/webscrapping/" rel="alternate" type="text/html" title="WebScraping" /><published>2021-09-29T00:00:00+05:30</published><updated>2021-09-29T00:00:00+05:30</updated><id>http://localhost:4000/2021/09/29/webscrapping</id><content type="html" xml:base="http://localhost:4000/2021/09/29/webscrapping/">&lt;p style=&quot;text-align:left; color:white&quot;&gt;
-&lt;a href=&quot;/2021/11/19/Amfoss/index.html&quot;&gt;&amp;lt; Introspection&lt;/a&gt;
+&lt;a href=&quot;/AmfossPreveshan/2021/11/19/Amfoss/index.html&quot;&gt;&amp;lt; Introspection&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -761,11 +761,11 @@ United States,$104.1 B,91,Berkshire Hathaway
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align:left;&quot;&gt;
-&lt;a href=&quot;/2021/09/28/flutter/index.html&quot;&gt;&amp;lt; Previous&lt;/a&gt;
-&lt;span style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/2021/09/30/htmljs/index.html&quot;&gt;Next &amp;gt;&lt;/a&gt;
+&lt;a href=&quot;/AmfossPreveshan/2021/09/28/flutter/index.html&quot;&gt;&amp;lt; Previous&lt;/a&gt;
+&lt;span style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/AmfossPreveshan/2021/09/30/htmljs/index.html&quot;&gt;Next &amp;gt;&lt;/a&gt;
 &lt;/span&gt;
 &lt;/p&gt;</content><author><name></name></author><summary type="html">&amp;lt; Introspection</summary></entry><entry><title type="html">Flutter</title><link href="http://localhost:4000/2021/09/28/flutter/" rel="alternate" type="text/html" title="Flutter" /><published>2021-09-28T00:00:00+05:30</published><updated>2021-09-28T00:00:00+05:30</updated><id>http://localhost:4000/2021/09/28/flutter</id><content type="html" xml:base="http://localhost:4000/2021/09/28/flutter/">&lt;p style=&quot;text-align:left; color:white&quot;&gt;
-&lt;a href=&quot;/2021/11/19/Amfoss/index.html&quot;&gt;&amp;lt; Introspection&lt;/a&gt;
+&lt;a href=&quot;/AmfossPreveshan/2021/11/19/Amfoss/index.html&quot;&gt;&amp;lt; Introspection&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;task-06-flutter-based-ui&quot;&gt;&lt;a href=&quot;https://github.com/Akshaj000/amfoss-tasks/tree/master/task-06&quot;&gt;Task-06 (Flutter based UI)&lt;/a&gt;&lt;/h2&gt;
@@ -904,11 +904,11 @@ flutter:
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align:left;&quot;&gt;
-&lt;a href=&quot;/2021/09/27/mars/index.html&quot;&gt;&amp;lt; Previous&lt;/a&gt;
-&lt;span style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/2021/09/29/webscrapping/index.html&quot;&gt;Next &amp;gt;&lt;/a&gt;
+&lt;a href=&quot;/AmfossPreveshan/2021/09/27/mars/index.html&quot;&gt;&amp;lt; Previous&lt;/a&gt;
+&lt;span style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/AmfossPreveshan/2021/09/29/webscrapping/index.html&quot;&gt;Next &amp;gt;&lt;/a&gt;
 &lt;/span&gt;
 &lt;/p&gt;</content><author><name></name></author><summary type="html">&amp;lt; Introspection Task-06 (Flutter based UI)</summary></entry><entry><title type="html">Aerglo Mars</title><link href="http://localhost:4000/2021/09/27/mars/" rel="alternate" type="text/html" title="Aerglo Mars" /><published>2021-09-27T00:00:00+05:30</published><updated>2021-09-27T00:00:00+05:30</updated><id>http://localhost:4000/2021/09/27/mars</id><content type="html" xml:base="http://localhost:4000/2021/09/27/mars/">&lt;p style=&quot;text-align:left; color:white&quot;&gt;
-&lt;a href=&quot;/2021/11/19/Amfoss/index.html&quot;&gt;&amp;lt; Introspection&lt;/a&gt;
+&lt;a href=&quot;/AmfossPreveshan/2021/11/19/Amfoss/index.html&quot;&gt;&amp;lt; Introspection&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -995,11 +995,11 @@ flutter:
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align:left;&quot;&gt;
-&lt;a href=&quot;/2021/09/26/programming/index.html&quot;&gt;&amp;lt; Previous&lt;/a&gt;
-&lt;span style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/2021/09/28/flutter/index.html&quot;&gt;Next &amp;gt;&lt;/a&gt;
+&lt;a href=&quot;/AmfossPreveshan/2021/09/26/programming/index.html&quot;&gt;&amp;lt; Previous&lt;/a&gt;
+&lt;span style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/AmfossPreveshan/2021/09/28/flutter/index.html&quot;&gt;Next &amp;gt;&lt;/a&gt;
 &lt;/span&gt;
 &lt;/p&gt;</content><author><name></name></author><summary type="html">&amp;lt; Introspection</summary></entry><entry><title type="html">Sandesh and his girlfriend</title><link href="http://localhost:4000/2021/09/26/programming/" rel="alternate" type="text/html" title="Sandesh and his girlfriend" /><published>2021-09-26T00:00:00+05:30</published><updated>2021-09-26T00:00:00+05:30</updated><id>http://localhost:4000/2021/09/26/programming</id><content type="html" xml:base="http://localhost:4000/2021/09/26/programming/">&lt;p style=&quot;text-align:left; color:white&quot;&gt;
-&lt;a href=&quot;/2021/11/19/Amfoss/index.html&quot;&gt;&amp;lt; Introspection&lt;/a&gt;
+&lt;a href=&quot;/AmfossPreveshan/2021/11/19/Amfoss/index.html&quot;&gt;&amp;lt; Introspection&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -1391,11 +1391,11 @@ In the fourth round, after dividing by two, player-1 has 8 and player-2 has 3. T
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align:left;&quot;&gt;
-&lt;a href=&quot;/2021/09/25/hello-world/index.html&quot;&gt;&amp;lt; Previous&lt;/a&gt;
-&lt;span style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/2021/09/27/mars/index.html&quot;&gt;Next &amp;gt;&lt;/a&gt;
+&lt;a href=&quot;/AmfossPreveshan/2021/09/25/hello-world/index.html&quot;&gt;&amp;lt; Previous&lt;/a&gt;
+&lt;span style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/AmfossPreveshan/2021/09/27/mars/index.html&quot;&gt;Next &amp;gt;&lt;/a&gt;
 &lt;/span&gt;
 &lt;/p&gt;</content><author><name></name></author><summary type="html">&amp;lt; Introspection</summary></entry><entry><title type="html">How i got addicted to ubuntu and it became my default os</title><link href="http://localhost:4000/2021/09/25/hello-world/" rel="alternate" type="text/html" title="How i got addicted to ubuntu and it became my default os" /><published>2021-09-25T00:00:00+05:30</published><updated>2021-09-25T00:00:00+05:30</updated><id>http://localhost:4000/2021/09/25/hello-world</id><content type="html" xml:base="http://localhost:4000/2021/09/25/hello-world/">&lt;p style=&quot;text-align:left; color:white&quot;&gt;
-&lt;a href=&quot;/2021/11/19/Amfoss/index.html&quot;&gt;&amp;lt; Introspection&lt;/a&gt;
+&lt;a href=&quot;/AmfossPreveshan/2021/11/19/Amfoss/index.html&quot;&gt;&amp;lt; Introspection&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;
 &lt;strong&gt;Hello world&lt;/strong&gt;, this is my first blog post on the tasks i attempted to join Amfoss.
@@ -1440,5 +1440,5 @@ I switched to windows since my laptop came with it as default. I showed a little
 &lt;p&gt;&lt;img src=&quot;https://i.ibb.co/gFx89JY/Screenshot-from-2021-11-18-21-00-03.png&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:right; color:white&quot;&gt;
-&lt;a href=&quot;/2021/09/26/programming/index.html&quot;&gt;Next &amp;gt;&lt;/a&gt;
+&lt;a href=&quot;/AmfossPreveshan/2021/09/26/programming/index.html&quot;&gt;Next &amp;gt;&lt;/a&gt;
 &lt;/p&gt;</content><author><name></name></author><summary type="html">&amp;lt; Introspection Hello world, this is my first blog post on the tasks i attempted to join Amfoss. I will start with first few tasks that i did and post the remaining in the upcoming days.</summary></entry></feed>
