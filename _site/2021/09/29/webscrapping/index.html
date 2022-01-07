@@ -9,9 +9,7 @@
 
 
 <!doctype html>
-<html class="min-height-full">\
-  <video id="bgvid">
-    <source src="yourname.mp4" type="video/mp4">
+<html class="min-height-full">
   <head >
     
     <meta charset="utf-8">
@@ -283,7 +281,7 @@ I tried the same on <a href="https://www.forbes.com/real-time-billionaires/#1312
 
 <h2 id="i-did-it-but-its-complicated">I DID IT but its complicated</h2>
 
-<p>This time i figured out where i went wrong and understood html codes to forbes were java rendered. Geziyor was the frame which supported it. Its easy after identifying it.Its possible to fetch required part of the html to a json file using this framework, and is easy to convert it to a csv.But there was issue. Go couldnt identify  class=”Country/Territory”. Even i tried it with “//”. It didnt help. I couldnt print the Country/Territory. I couldnt come up with a btr approach. How i did it was, I used geziyor to scrap all the html codes to a txt file, editted each “Country/Territory”  to “Country”. Made a local web server and used colly to scrap it. This time it worked, But i had to run two files. One with the geziyor frame work which scraped the link and made a local server. Then one with colly which actually scraps the required elements and save it inside a csv file.I should have tried to find a way to include “/” and im still working on it.<br />
+<p>This time i figured out where i went wrong and understood html codes in forbes were java script rendered. Geziyor was the framework which supported it. Its was easy after identifying it.Its possible to fetch required part of the html to a json file using this framework, and is easy to convert it to a csv.But there was issue. Go couldnt identify  class=”Country/Territory”. Even i tried it with “//”. It didnt help. I couldnt print the Country/Territory. I couldnt come up with a btr approach. How i did it was, I used geziyor to scrap all the html codes to a txt file, editted each “Country/Territory”  to “Country”. Made a local web server and used colly to scrap it. This time it worked, But i had to run two files. One with the geziyor frame work which scraped the link and made a local server. Then one with colly which actually scraps the required elements and save it inside a csv file.I should have tried to find a way to include “/” and im still working on it.
 Please follow this method to use my scraper:<br />
 1.Head to working_one directory<br />
 2.Run the gey-serve.go file inside the serve_here directory<br />
@@ -300,9 +298,9 @@ Im not pasting my code. Please visit my github directory.</p>
         writer.write(string(r.Body))
     },
 </code></pre></div></div>
-<p>I had to write the the char one by one to different file. Later i had to edit that file properly to use colly.
+<p>I had to write characters one by one to different file. Later i had to edit that file properly to use colly.
 <a href="/Htmltask/forbes/data.html">This</a> is the html file i got after scrapping. Yeah its impossible to scrap that. So removed first few lines using this <a href="https://stackoverflow.com/questions/30940190/remove-first-line-from-text-file-in-golang">method</a>.
-Later had to convert the html to txt, since golang couldnt read “/” inside html properly due to some reason. I replaced “Country/Territory” with “Territory” using :</p>
+Later had to convert the html to txt, since golang couldnt read “/” inside html properly due to some reason. I replaced “Country/Territory” with “Country” using :</p>
 <div class="language-golang highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">func</span> <span class="n">visit</span><span class="p">(</span><span class="n">path</span> <span class="kt">string</span><span class="p">,</span> <span class="n">fi</span> <span class="n">os</span><span class="o">.</span><span class="n">FileInfo</span><span class="p">,</span> <span class="n">err</span> <span class="kt">error</span><span class="p">)</span> <span class="kt">error</span> <span class="p">{</span>
 
 	<span class="k">if</span> <span class="n">err</span> <span class="o">!=</span> <span class="no">nil</span> <span class="p">{</span>
