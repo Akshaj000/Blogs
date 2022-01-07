@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/Akshaj000/akshaj000.github.io.git
 	branch = main
+[submodule "doc"]
+	path = doc
+	url = https://github.com/Akshaj000/Blogs.git
+	branch = main
