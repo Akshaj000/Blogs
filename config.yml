@@ -2,7 +2,7 @@ baseURL: "https://akshaj000.github.io/blogs/"
 title: "&#128218 MyBlog"
 paginate: 5
 theme: PaperMod
-publishDir: docs
+
 
 enableRobotsTXT: true
 buildDrafts: false
