@@ -94,7 +94,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<https://github.com/Akshaj000/Blogs>/content"
+    URL: "https://github.com/Akshaj000/Blogs/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
